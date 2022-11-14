@@ -1,0 +1,12 @@
+img {
+    height: 300px;
+    width: 300px;
+}
+p,
+ol,
+ul {
+    width: 600px;
+}
+h1{
+    color: blue;
+}
